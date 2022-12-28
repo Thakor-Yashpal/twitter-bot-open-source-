@@ -1,0 +1,1 @@
+This code uses the pyttsx3 library to generate synthesized speech from text, and the random module to select a random story from a list of stories. The say function is used to speak the story, and the runAndWait function plays the audio and waits for it to finish before exiting.
